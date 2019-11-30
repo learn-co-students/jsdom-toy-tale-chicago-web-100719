@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "woody jr.",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "Buzz Jr",
+      "image": "http://www.pngmart.com/image/74323",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
